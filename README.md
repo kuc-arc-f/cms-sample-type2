@@ -15,8 +15,9 @@ Github pages file :
 * cms sample file, build from Vue-CLI
 
 ***
-### blog
+### sample
 
+https://kuc-arc-f.github.io/cms-sample-type2
 
 ***
 
