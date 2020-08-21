@@ -1,12 +1,12 @@
-﻿# cms-sample
+﻿# cms-sample-type2
 
  Version: 0.9.1
 
  Author  : Kouji Nakashima / kuc-arc-f.com
 
- date    : 2020/08/01 
+ date    : 2020/08/20  
 
- update : 2020/08/10
+ update : 
 
 ***
 
@@ -17,7 +17,6 @@ Github pages file :
 ***
 ### blog
 
-https://kuc-arc-f.github.io/cms-sample
 
 ***
 
